@@ -1,7 +1,6 @@
 # Table of contents
 
-* [হাতেখড়ি](README.md)
-  * [ভাষা আন্দোলন](undefined/undefined.md)
+* [Welcome!](README.md)
 
 ## The Company
 

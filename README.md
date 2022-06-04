@@ -1,7 +1,9 @@
 ---
-description: ভবিষৎকে জানার জন্যই আমাদের অতীত জানা উচিত। -জন ল্যাক হন
 coverY: 0
 ---
 
-# হাতেখড়ি
+# Welcome!
 
+## Welcome aboard!
+
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
